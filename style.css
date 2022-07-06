@@ -1,0 +1,126 @@
+body h1,h2,h3,h4,h5,h6{
+    font-family: 'Montserrat', sans-serif;
+}
+.primary-clor{
+    color: #081158;
+}
+section{
+    padding-top: 120px;
+}
+h1{
+    font-weight: 700;
+}
+p{
+    color: gray;
+    font-size: 15;
+}
+.top-btn{
+    background: #2A2A68;
+    color: #FBB244;
+    border-radius: 30px;
+    padding: 0 20 10 20 10;
+    font-size: 15px;
+    transition: .5s;
+}
+.top-btn:hover{
+    background: white;
+    border: 1px solid gray;
+}
+.headline{
+    background: #FEF0D9;
+    color: #FBB244;
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 10px 15px 10px 15px;
+    border-radius: 20px;
+}
+.banner-btn li{
+    display: inline-block;
+    list-style: none;
+}
+.btn-all{
+    text-decoration: none;
+    background: #2A2A68;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 30px;
+    transition: .5s;
+}
+.btn-all:hover{
+    background: white;
+    color: #2A2A68;
+    border: 1px solid #2A2A68;
+}
+.button-contact{
+    text-decoration: none;
+    background: #ffffff;
+    color: #2A2A68;
+    padding: 10px 30px;
+    border-radius: 30px;
+    border: 1px solid #2A2A68;
+    transition: .5s;
+}
+.button-contact:hover{
+    background: #2A2A68;
+    color: white;
+}
+
+.feature-section .card{
+    border: none;
+}
+.feature-section .card h5{
+    font-weight: 700;
+}
+.feature-section .card img{
+    width: 70px;
+}
+
+.about ul li{
+    list-style-type: none;
+    color: gray;
+}
+.img-w{
+    width: 70px;
+}
+.testimonial{
+    background: #F8F9FA;
+    padding-bottom: 120px;
+}
+.testimonial img{
+    width: 60px;
+    border-radius: 50%;
+}
+.overwrite-1{
+    left: -150px;
+}
+.overwrite-2{
+    right: -150px;
+}
+.carousel-indicators {
+    bottom: -65px;
+}
+footer{
+    padding: 120px 0;
+}
+footer li{
+    list-style-type: none;
+}
+footer li .social-icon{
+    background: #081158;
+    color: white;
+    display: block;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+footer li a{
+    text-decoration: none;
+    color: gray;
+    margin-bottom: 10px;
+    display: block;
+}
