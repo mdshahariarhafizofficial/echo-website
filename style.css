@@ -124,3 +124,16 @@ footer li a{
     margin-bottom: 10px;
     display: block;
 }
+#contact-form input, textarea{
+    width: 100%;
+    margin-bottom: 20px;
+}
+#submit{
+    background: #2a2a68;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
